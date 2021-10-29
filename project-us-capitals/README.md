@@ -6,6 +6,7 @@ https://developers.google.com/public-data/docs/canonical/states_csv
 <br>
 https://en.wikipedia.org/wiki/List_of_capitals_in_the_United_States
 
+![map](https://user-images.githubusercontent.com/61606603/139358777-d4734d2b-4c0f-4be6-b230-f553d4f87dd8.png)
 
 https://chaseroldan.github.io/project-capitals/project-capitals.html
 
