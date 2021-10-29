@@ -1,6 +1,7 @@
 This project uses Pandas and Jupyter Notebook to examine data from the internet about United States capitals. Information is organized in a dataframe and converted into an html table which is appended to a web page and can be filtered though.
 <br>
 Sources: 
+<br>
 https://developers.google.com/public-data/docs/canonical/states_csv
 <br>
 https://en.wikipedia.org/wiki/List_of_capitals_in_the_United_States
