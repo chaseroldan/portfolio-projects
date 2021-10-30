@@ -1,6 +1,6 @@
 This project uses Pandas to examine data from the internet about United States capitals. Data is scraped from the web and merged with another dataset from a csv. A heatmap is then created along with various graphs. Information is organized in a dataframe and converted into an html table which is appended to a web page and can be filtered though. 
 <br>
-https://chaseroldan.github.io/project-capitals/project-capitals.html
+https://chaseroldan.github.io/project-capitals/us-capitals.html
 <br>
 Sources:
 <br>
